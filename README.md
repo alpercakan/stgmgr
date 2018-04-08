@@ -1,5 +1,4 @@
-# Stgmgr
-## Build Instructions:
+## Running:
 
   1) cd into the directory stgmgr/
      (You are probably there now, since you are reading this)
