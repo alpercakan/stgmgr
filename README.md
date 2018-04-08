@@ -12,9 +12,9 @@
 
 ## Running:
   For detailed info about the usage, just run:
-    ```
-    bin/stgmr --help
-    ```
+```
+bin/stgmr --help
+```
 
   For detailed info about the usage of DML and DDL commands, refer to the
   corresponding sections of the project report.
